@@ -1,3 +1,5 @@
+https://www.codechef.com/practice/course/tcs-nqt-questions/TCSNQTC/problems/TCSNQTCP01
+
 import java.util.Scanner;
 public class Main
 {
